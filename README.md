@@ -3,7 +3,7 @@ ChatGPT for own college which give internal information from College Databse. Ma
 
 Below functions and their representing procedure we are calling to get specific information from internal databased in the form of ChatGPT.
 1. Fees related questions:
-
+```
 How much x_student has paid so far?
 How much is pending for x_student?
 What is the total fees for semester 1?
@@ -30,10 +30,10 @@ How much was Riya Singh's due fees in the first semester?
                         LLM
                          |
 Riya Singh's due fees for the first semester amount to $50.
-
+```
 
 2. GPA / marks of student and semesters:
-
+```
 What was x_student's GPA in semester 2?
 What was the average GPA for all the students semester 4?
 Minimum GPA in semester 4?
@@ -61,3 +61,4 @@ Average gpa in third semester?
                LLM
                 |
 The average GPA in the third semester is 3.85.
+```
